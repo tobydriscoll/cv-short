@@ -33,18 +33,8 @@ title: CV of Tobin A. Driscoll
 * B.S. in Physics
 
 ## Professional experience
-`2010–present`
+`2000–present`
 **University of Delaware** 
-* Professor, Department of Mathematical Sciences  
-* Affiliated Faculty, Department of Biomedical Engineering 
-
-`2004–2010`
-**University of Delaware** 
-* Associate Professor, Department of Mathematical Sciences  
-
-`2000–2004`
-**University of Delaware** 
-* Associate Professor, Department of Mathematical Sciences  
 
 `1996–2000`
 **University of Colorado at Boulder**
@@ -85,7 +75,7 @@ A. D. White Fellow (Cornell graduate study)
 `1987–1991`
 Braddock Scholar (Penn State undergraduate study) -->
 
-## Grants
+## Recent Grants
 
 `2019-2022`
 R. J. Braun (PI), T. A. Driscoll (co-PI). Models for Tear Film Structure, Dynamics and Parameter Identification. NSF DMS-1909846, $375,000.
@@ -108,7 +98,7 @@ T. A. Driscoll (PI) with 5 other key personnel. Meeting the need in mathematics 
 `2010–2013`
 R. J. Braun (PI) and T. A. Driscoll (co-PI), Modeling tear film dynamics. NSF DMS-1022706, $444,000.
 
-`2007`
+<!-- `2007`
 L. F. Rossi, T. Driscoll, and R. Luke (co-PIs), Strengthening mathematics instruction with automated algorithmic mastery activities. Center for Teaching Effectiveness (UD), $20,000.
 
 `2006–2009`
@@ -130,10 +120,9 @@ T. A. Driscoll (PI). Novel fast and accurate methods for partial differential eq
 T. A. Driscoll (PI). Fast time stepping for the computational simulation of differential equations. University of Delaware Research Foundation, $21,042.
 
 `1996–1999`
-T. A. Driscoll (PI). NSF Mathematical Sciences Postdoctoral Research Fellowship (University of Colorado). NSF DMS-9627677, $75,000.
+T. A. Driscoll (PI). NSF Mathematical Sciences Postdoctoral Research Fellowship (University of Colorado). NSF DMS-9627677, $75,000. -->
 
 ## Publications
-For a filterable list with live links, go to [my web site](https://tobydriscoll.github.io/publication/). Or you can visit my [Google Scholar site](https://scholar.google.com/citations?user=V2c1tmAAAAAJ&hl=en). 
 
 ### Books
 
@@ -367,18 +356,10 @@ Last updated: May 2013 -->
 
 ## Software
 
-* L. N. Trefethen and others, [http://www.chebfun.org](Chebfun). (Major Driscoll contributions noted for the releases below.)
-	* 2014: Version 5.0 (with many collaborators): Design and rewrite of software for object-oriented modularity. 
-    * 2011: Version 4.0 (with N. Hale): Rectangular formulations for robust ODE systems
-	* 2009: Version 3.0 (with A. Birkisson): Automatic differentiation and solution for nonlinear operators
-	* 2008: Version 2.0 (with F. Bornemann):  Chebop, for automatic solutions of differential equations (BVP, eigenvalue, PDE)
- * T. A. Driscoll. [http://github.com/tobydriscoll/sc-toolbox](Schwarz--Christoffel Toolbox for MATLAB.)
-	* 2002: Module for solving Laplace's equation with piecewise constant boundary conditions.
-	* 2000: Object-oriented interface for polygons and maps.
-	* 1996: Inclusion of CRDT algorithm for elongated regions.
-	* 1994: Initial release.
+* L. N. Trefethen and others, [http://www.chebfun.org](Chebfun). Rectangular formulations for robust ODE systems, Automatic differentiation and solution for nonlinear operators, automatic solutions of differential equations.
+* T. A. Driscoll. [http://github.com/tobydriscoll/sc-toolbox](Schwarz--Christoffel Toolbox for MATLAB.) Object-oriented interface for polygons and maps, CRDT algorithm for elongated regions, Laplace's equation with piecewise constant boundary conditions.
 
-## Recent Presentations
+<!-- ## Recent Presentations
 
 `2018`
 "Preconditioning nonlinear equations with domain decomposition," AMS Eastern Sectional Meeting, University of Delaware, September 2018. 
@@ -414,7 +395,7 @@ Last updated: May 2013 -->
 
 "Optimal splitting in spectral collocation," Seminar, Arizona State, April 2013.
 
-"Numerical computing with functions," Colloquium, Arizona State, April 2013.
+"Numerical computing with functions," Colloquium, Arizona State, April 2013. -->
 
 <!-- `2012`
 "Numerical computing with functions," Colloquium, Temple University, December 2012.
@@ -668,7 +649,7 @@ Associate Editor of *Journal of Engineering Mathematics*, 2010–2015
 
 Director of Graduate Studies (Delaware), 2014–2014
 
-Member, Society for Industrial and Applied Mathematics
+<!-- Member, Society for Industrial and Applied Mathematics -->
 
 <!-- Referee for SISC, SINUM, J.\ Comput.\ Phys., Proc.\ Royal Soc.\
 A, J.\ Comput.\ Appl.\ Math., Computers Math.\ Appl., J. Sci.\
@@ -680,4 +661,4 @@ Book reviewer for SIAM Review, Wiley, J.\ Flu.\ Mech.
 Reviewer of grant proposals for NSF and the Swiss National Science
 Foundation -->
 
-Organizing committee of Mathematical Problems in Industry, 2004 (Delaware)
+<!-- Organizing committee of Mathematical Problems in Industry, 2004 (Delaware) -->
