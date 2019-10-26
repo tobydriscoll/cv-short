@@ -623,14 +623,14 @@ Computational mathematics (two-semester sequence)
 
 Complex analysis -->
 
-### Graduate 
+<!-- ### Graduate 
 Numerical linear algebra and nonlinear equations
 
 Numerical ODEs/PDEs
 
 Spectral/high-order methods for PDEs
 
-Radial basis functions
+Radial basis functions -->
 
 <!-- ## Technology uses
 
