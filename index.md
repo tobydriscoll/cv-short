@@ -35,24 +35,29 @@ title: CV of Tobin A. Driscoll
 
 ## Professional experience
 
-`2010–present`
 **University of Delaware** 
+
+`2022-present`
+* Unidel Professor of Mathematical Sciences
+
+`2010–2022`
 * Professor, Department of Mathematical Sciences  
 * Affiliated Faculty, Department of Biomedical Engineering 
 
 `2004–2010`
-**University of Delaware** 
 * Associate Professor, Department of Mathematical Sciences  
 
 `2000–2004`
-**University of Delaware** 
-* Associate Professor, Department of Mathematical Sciences  
+* Assistant Professor, Department of Mathematical Sciences  
 
 `1996–2000`
 **University of Colorado at Boulder**
 * Postdoctoral research fellow, Department of Applied Mathematics 
 
 ## Honors and awards
+
+`2022`
+Unidel endowed Chair in Mathematical Sciences
 
 `2014`
 Outstanding Scholar Award, College of Arts & Sciences, University of Delaware (sole winner for year) 
