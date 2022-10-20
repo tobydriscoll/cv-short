@@ -137,6 +137,8 @@ T. A. Driscoll (PI). NSF Mathematical Sciences Postdoctoral Research Fellowship 
 ## Publications
 
 ### Books
+`2022`
+T. A. Driscoll and R. J. Braun. *Fundamentals of Numerical Computation: Julia Edition*, SIAM
 
 `2018`
 L. N. Trefethen, A. Birkisson, and T. A. Driscoll. *Exploring ODEs*, SIAM
