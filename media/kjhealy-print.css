@@ -28,6 +28,9 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+@page {
+	margin: 1in;
+}
 body {
 	line-height: 1;
 }
@@ -53,20 +56,20 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 10pt;
-	line-height: 1.35em;
+	font-size: 11pt;
+	line-height: .184in;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
+	font-family: Arial,Verdana,sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
 
 p {
 	position: relative;
-	left: 28%;
+	left: 8%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 70%;
+	width: 90%;
 }
 
 code {
@@ -79,15 +82,16 @@ code {
 
 p code {
 	position: absolute;
-	left: -11%;
+	left: -8%;
 }
 
 
 ul { 
 	position: relative;
-	left: 28%;
-	width: 65%;
-	margin-bottom: 1em;
+	left: 12%;
+	width: 85%;
+	margin-top: 1ex;
+	margin-bottom: 1ex;
 	/*margin-top: -0.5em;*/
 }
 
@@ -114,7 +118,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: Arial,Verdana,sans-serif;
 	width: 65%;
 }
 
@@ -133,24 +137,26 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.1em;
+	font-size: 1.2em;
 	color: #a00;
 	margin-top: 2em;
+	margin-bottom: 1ex;
 	position: relative;
-	top: 1.2em;
-	text-align: right;
-	width: 18%;
+	top: 0em;
+	text-align: left;
+	width: 58%;
 }
 
 
 h3 {
-	font-size: 1em;
+	font-size: 1.1em;
 	line-height: 2em; 
 	color: #ccc;
+	margin-top: 1ex;
 	position: relative;
-	top: 1.6em;
-	text-align: right;
-	width: 18%;
+	top: 0em;
+	text-align: left;
+	width: 58%;
 }
 
 a {

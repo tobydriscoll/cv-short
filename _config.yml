@@ -1,2 +1,7 @@
 markdown:   kramdown
-style:  davewhipp
+style:  kjhealy
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
